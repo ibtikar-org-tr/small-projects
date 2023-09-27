@@ -1,4 +1,4 @@
-# Team Name: XXXXXXX
+# Team Name: python team
 
 Team members GitHub accounts: 
 - [@MasaSN](https://github.com/MasaSN)

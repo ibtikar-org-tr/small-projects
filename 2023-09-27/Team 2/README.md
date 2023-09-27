@@ -1,12 +1,9 @@
 # Team Name: XXXXXXX
 
 Team members GitHub accounts: 
-- [@xxxxxxxxxxxxxxxxxxxx](https://www.github.com/xxxxxxxxxxxxxxxxxxxx)
-- [@xxxxxxxxxxxxxxxxxxxx](https://www.github.com/xxxxxxxxxxxxxxxxxxxx)
-- [@xxxxxxxxxxxxxxxxxxxx](https://www.github.com/xxxxxxxxxxxxxxxxxxxx)
-- [@xxxxxxxxxxxxxxxxxxxx](https://www.github.com/xxxxxxxxxxxxxxxxxxxx)
-- [@xxxxxxxxxxxxxxxxxxxx](https://www.github.com/xxxxxxxxxxxxxxxxxxxx)
-- [@xxxxxxxxxxxxxxxxxxxx](https://www.github.com/xxxxxxxxxxxxxxxxxxxx)
+- [@MgBeyy](https://www.github.com/MgBeyy)
+-Ayman
+-Yaman
 
 
 # Aim of the Project and how to run it:

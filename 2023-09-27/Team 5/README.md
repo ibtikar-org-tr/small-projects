@@ -1,18 +1,10 @@
-# Team Name: XXXXXXX
+# Team Name: SudaTenkno
 
 Team members GitHub accounts: 
-- [@xxxxxxxxxxxxxxxxxxxx](https://www.github.com/xxxxxxxxxxxxxxxxxxxx)
-- [@xxxxxxxxxxxxxxxxxxxx](https://www.github.com/xxxxxxxxxxxxxxxxxxxx)
-- [@xxxxxxxxxxxxxxxxxxxx](https://www.github.com/xxxxxxxxxxxxxxxxxxxx)
-- [@xxxxxxxxxxxxxxxxxxxx](https://www.github.com/xxxxxxxxxxxxxxxxxxxx)
-- [@xxxxxxxxxxxxxxxxxxxx](https://www.github.com/xxxxxxxxxxxxxxxxxxxx)
-- [@xxxxxxxxxxxxxxxxxxxx](https://www.github.com/xxxxxxxxxxxxxxxxxxxx)
+- [@FatihSir](https://www.github.com/FatihSir)
+
 
 
 # Aim of the Project and how to run it:
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+The aim of this project is to develop and implement a Convolutional Neural Network (CNN) for the classification of handwritten digits in the MNIST dataset
 

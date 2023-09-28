@@ -2,8 +2,8 @@
 
 Team members GitHub accounts: 
 - [@MasaSN](https://github.com/MasaSN)
-- [zekriya](-)
-- [hibatuallah](-)
+- [@Harvst](https://github.com/Harvst)
+- [@Hebatollahh](https://github.com/Hebatollahh)
 - 
 
 # Aim of the Project and how to run it:
